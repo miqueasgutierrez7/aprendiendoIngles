@@ -26,9 +26,28 @@ Practice
 
 2-There are 2 dogs
 
-3-Therre is not a dog
+3-There is not a dog
          isn't
 
+4-There are not 2 dogs
+         aren't
+
+5- Is there a dog?
+Yes, there is.
 
 
+6- Are there 2 dogs?
+
+Yes, there are.
+
+
+Practice
+
+1- En mi casa sobre la mesa, hay dos manzanas.
+In my house, on the table, there are apples
+
+2- En el parque hay 3 gatos y hay un perro.Ellos estan corriendo.
+In the park there are cats and there is dog. They are runing.
+
+3- ¿Hay 4 baños en tu casa?no, no hay 4 baños.
 
