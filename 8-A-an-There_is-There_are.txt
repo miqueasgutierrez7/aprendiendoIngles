@@ -65,7 +65,24 @@ En mi casa, en la sala hay muchas cosas. Hay un reloj en la pared.
  Hay una silla al lado de la mesa, sobre la mesa hay un libro,
 hay una lampara y hay un florero. En el florero hay 5 flores.En la
 sala hay un sofa, sobre el sofa hay 2 cojines y al lado del sofa
-hay un gato
+hay un gato.En el piso hay una pelota y hay una alfonbra.
+
+1- Are there 2 cats in the house?
+No, because there is one cat.
+
+2- Is there a ball on the floor?
+Yes, There is.
+
+3-Are there 4 flowers in the vase?
+No, Because there are 5 flowers.
+
+4-Is there a cat at the sofa?
+
+No, because there's one cat at the sofa
+
+5-Are there 2 clocks on the wall?
+No, There is one clock
+
 
 
 
